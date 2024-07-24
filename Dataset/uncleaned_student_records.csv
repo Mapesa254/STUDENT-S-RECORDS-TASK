@@ -1,0 +1,526 @@
+Student_ID,First_Name,Last_Name,DOB,Department,Admission_Year,GPA,Grade,Fees_Status,Amount_Paid,Scholarship
+7311,Ryan,Jordan,1999-07-04,Mathematics,1987,2.42,F,Paid,2786,Yes
+7890,Robert,Jackson,2001-11-25,Biology,2008,2.1,F,Unpaid,0,Yes
+1663,Tyler,Kramer,2001-07-05,,1977,3.11,C,Paid,0,Yes
+5242,Michelle,Carroll,2002-09-29,Chemistry,2005,2.21,D,Paid,0,No
+9376,Mark,Ramos,2005-11-16,Chemistry,1975,2.2,D,Unpaid,4866,No
+8961,Johnny,Peterson,2002-06-30,Computer Science,2009,3.79,D,Unpaid,0,Yes
+7634,Michael,Smith,2000-06-07,Chemistry,1978,3.31,C,Paid,,No
+5969,David,Griffith,2004-01-26,Chemistry,2003,3,B,Unpaid,0,No
+8808,Heather,Browning,2004-07-09,Physics,1972,3.33,B,Unpaid,11295,No
+6866,,Beck,2001-09-01,Biology,2005,3.54,F,Unpaid,0,Yes
+4578,Gregory,Bates,2003-11-13,Biology,2023,,B,Unpaid,6494,No
+9268,Maria,Scott,2006-04-12,Biology,1985,3.07,F,Unpaid,0,Yes
+3281,Jerry,Salazar,,Chemistry,1993,3.39,C,Paid,10155,Yes
+5617,Michael,Jones,2002-02-28,Computer Science,1976,4,D,Paid,0,No
+3289,Candace,Boyle,2000-11-05,Physics,2007,3.66,A,Paid,6765,No
+2553,Douglas,Ramirez,2001-07-18,Biology,2018,3.93,F,Paid,0,Yes
+5104,Aaron,Greer,2001-11-24,Physics,1984,3.16,F,Unpaid,,Yes
+9725,Donna,Moreno,2005-01-05,Biology,1982,2.25,B,Paid,14515,Yes
+3407,Jessica,Brown,2005-01-02,Biology,2017,2.47,F,Paid,16450,Yes
+6081,Rachel,Fowler,2004-07-25,Mathematics,2015,3.02,C,Paid,0,No
+2618,Julie,Riley,,Mathematics,1985,3.12,A,Unpaid,0,No
+2208,Kelly,David,2005-11-10,Biology,1997,3.36,B,Unpaid,0,Yes
+6409,Hannah,Chen,1999-05-21,Biology,1983,3.89,F,Paid,0,
+8735,Sarah,Daniels,2002-07-27,Chemistry,2011,4.87,D,Paid,6453,No
+2649,Jesse,Cruz,2006-03-05,Mathematics,2017,3.35,F,Paid,0,Yes
+6796,Donald,Hamilton,2000-12-19,Mathematics,2020,3.81,F,,2359,Yes
+8113,Shawn,Collins,1999-07-07,,1999,2.48,A,Unpaid,8983,No
+6180,Thomas,Smith,2002-04-13,Computer Science,1993,3.9,D,Unpaid,1430,Yes
+4350,Jasmine,Osborne,1999-10-20,Biology,1980,2.74,D,Unpaid,15203,No
+8815,Jonathan,Weiss,2001-05-31,Chemistry,1988,2.5,F,Paid,0,No
+8253,Anthony,Ramirez,2006-06-04,Computer Science,2019,2.92,F,Unpaid,0,No
+9541,Jared,Scott,2000-07-23,Mathematics,1993,4.66,A,Paid,18984,Yes
+5267,Matthew,Rose,2004-10-23,Chemistry,2007,3.93,B,Paid,0,No
+2020,Susan,Stewart,2000-01-29,Biology,1983,3.28,B,Paid,0,No
+9989,Kenneth,Peterson,2006-05-25,Physics,1984,3.58,F,Paid,15022,Yes
+1230,Natalie,Thornton,2001-05-13,Chemistry,2001,3.05,A,Paid,18171,No
+2528,Angela,Reynolds,2002-09-26,Physics,1991,3.72,A,Unpaid,7581,Yes
+7534,Mark,Thomas,2000-06-07,Physics,1978,3.17,C,Paid,18081,No
+1018,Brittany,Smith,1999-06-04,Mathematics,1988,3.03,B,Paid,0,No
+9086,Christopher,Dixon,2004-04-13,Chemistry,2008,3.1,C,Unpaid,2465,No
+6458,Amanda,Mueller,2001-10-02,Mathematics,2015,2.77,B,Paid,,Yes
+4996,Kyle,Miles,2001-10-17,Chemistry,2022,3.58,F,Unpaid,,No
+6328,Nicholas,Harrington,2002-06-11,Mathematics,2022,2.6,F,,0,Yes
+2031,Dylan,Cruz,2002-11-09,Biology,1970,3.74,F,Paid,19068,No
+4130,David,Marshall,2002-06-01,Chemistry,1975,3.77,A,Unpaid,,Yes
+4632,Jeffrey,Johnson,2006-06-13,,2014,4,D,Paid,16234,
+4909,William,Gaines,2003-04-21,Biology,1992,2.58,A,Unpaid,0,No
+3334,Joel,Fields,2005-07-15,Biology,1990,2.92,C,Paid,0,
+9896,Ivan,Lindsey,2003-09-30,Computer Science,2018,3.07,A,Unpaid,0,
+8339,Nathan,Wolf,2000-05-13,Computer Science,2023,4.76,B,Unpaid,14085,No
+2494,Elizabeth,Yoder,2004-03-27,Physics,1991,2,F,Paid,0,No
+2318,Michelle,,2001-11-19,Biology,1972,3.41,C,Paid,0,Yes
+6243,Carolyn,,2002-10-05,Chemistry,1975,2.31,B,,0,Yes
+9322,Phillip,Moore,2001-02-18,Physics,2011,3.78,,Paid,14374,Yes
+9016,Jacqueline,Lee,2002-08-18,Physics,1970,2.8,D,Unpaid,0,No
+2786,,Gomez,2000-06-19,Physics,1989,2.59,B,Paid,0,No
+5938,Kevin,Graves,2001-03-01,Biology,1977,2.72,B,Unpaid,0,
+5769,Robert,Smith,,Biology,1981,3.16,B,Unpaid,16921,Yes
+3044,Sara,Moss,2004-04-21,Biology,2018,3.36,C,Unpaid,2261,Yes
+9969,Brittany,Duncan,1998-07-03,Chemistry,1988,3.7,B,Paid,0,No
+6451,Kenneth,Allen,invalid_date,Chemistry,1983,2.33,C,Paid,13785,No
+9852,Michael,Lopez,2002-07-02,Biology,2004,2.04,B,Unpaid,8029,No
+4329,John,Chang,2001-03-09,Mathematics,2007,2.02,D,Unpaid,0,Yes
+9965,Cynthia,Fisher,2001-11-03,Physics,1993,2.89,F,Unpaid,0,Yes
+5712,Dana,Berry,2006-01-25,Computer Science,2000,2.1,D,,16841,No
+8290,Allison,Young,2000-06-03,Chemistry,1976,2.69,B,Paid,0,No
+2501,Nicholas,Reeves,2005-06-21,Physics,1998,3.88,F,Paid,16113,Yes
+7306,Alan,Shields,2002-02-27,Chemistry,2004,3.46,,Unpaid,0,
+6194,Suzanne,Jacobson,1998-11-26,Physics,2006,2.46,C,Unpaid,7801,Yes
+4966,Rachel,Patrick,2003-05-20,Physics,1997,2.75,D,Paid,4354,Yes
+5756,Scott,Garcia,2005-01-18,Biology,1978,3.13,B,Unpaid,7605,Yes
+4012,Nathan,Lopez,1998-10-31,Physics,1975,2.69,D,Unpaid,0,No
+4102,Stephanie,Alexander,2001-12-11,Mathematics,2010,3.28,B,Paid,0,Yes
+4059,Christopher,Brown,1999-04-14,Physics,2001,,D,Paid,19016,Yes
+1540,,Simmons,2000-09-23,Computer Science,1992,2.66,F,Paid,0,No
+5260,Daniel,Foster,2000-03-11,Physics,1981,3.52,B,Unpaid,,No
+8807,Daniel,Nelson,2004-08-28,,1990,3.66,D,Paid,1120,No
+2131,Catherine,Kim,2001-04-08,Physics,1986,,D,Unpaid,0,Yes
+2471,Eric,Todd,2000-01-03,Mathematics,2012,2.22,D,Paid,2867,Yes
+3133,Jacqueline,Kelly,1999-06-14,Computer Science,1999,2.97,D,Paid,0,Yes
+3450,Sarah,Murphy,2000-01-10,Physics,2015,2.3,B,Unpaid,0,Yes
+1633,Jacob,Parker,2005-04-08,Biology,2017,2,A,Paid,0,Yes
+2314,Robert,Vasquez,2004-06-06,Physics,1989,2.95,B,Unpaid,0,No
+9857,Gregg,Farmer,2001-08-02,Physics,1972,3.74,F,Paid,,No
+7410,Susan,Harris,1998-09-23,Biology,1971,2.04,A,Paid,,No
+9594,Matthew,Sanders,2000-06-23,Chemistry,1970,2.22,B,Paid,2817,No
+5515,Alexandra,Graham,1998-11-10,Computer Science,2013,2.28,D,Unpaid,16850,No
+9549,Michael,Reid,1998-07-23,Biology,1988,3.92,F,Paid,1751,Yes
+4858,Crystal,Nunez,2001-09-28,Computer Science,1975,2.14,A,Paid,17274,Yes
+4525,Christopher,Terry,2003-01-13,Biology,2014,3.96,C,Unpaid,0,No
+7871,Kari,Carson,1998-07-12,Computer Science,1991,3.31,F,Paid,0,Yes
+5509,Kenneth,Aguilar,1999-08-04,Computer Science,1991,3.02,D,Paid,17506,Yes
+8382,,Gomez,1999-06-24,Computer Science,2007,,D,Unpaid,0,No
+9071,Shane,Carroll,2005-06-23,Physics,2014,3.94,B,Paid,0,Yes
+6855,Steven,Elliott,2003-08-19,Biology,1989,2.86,A,Unpaid,0,No
+2349,Jeffery,,2003-08-23,Computer Science,1973,2.3,C,Unpaid,0,Yes
+6313,Danny,Short,2006-06-10,Biology,2023,2.78,A,Unpaid,5958,Yes
+2889,Tiffany,Sanders,2006-04-01,,2018,2.73,F,Unpaid,16424,Yes
+8969,Kevin,Mccall,2000-03-08,Biology,1986,3.93,,Unpaid,4366,Yes
+6493,,Taylor,1999-03-08,Physics,2017,2.06,A,Paid,5171,No
+4119,Roger,Miller,2004-10-16,Biology,2005,3.44,C,Unpaid,6616,No
+4981,Karen,Hancock,2002-06-15,Mathematics,1979,,D,Paid,19726,No
+1265,Christopher,Ward,invalid_date,Computer Science,1987,3.32,B,Unpaid,10283,Yes
+5440,Tyler,,2005-09-12,Chemistry,2010,3.59,F,Unpaid,17634,No
+2919,Susan,Love,1998-07-02,Physics,1973,3.97,F,Paid,11453,Yes
+4612,Amy,,2002-11-30,Biology,2023,2.63,B,Unpaid,12365,No
+7095,Richard,Ruiz,2006-02-11,Computer Science,1996,2.37,B,Unpaid,0,No
+3793,Crystal,Edwards,2003-10-10,Mathematics,1998,3.99,B,Unpaid,5428,No
+6448,Andrew,Skinner,2005-09-07,Chemistry,1989,2.96,F,Unpaid,7252,No
+7981,Joseph,Best,2002-01-07,Computer Science,2009,3.07,C,Paid,0,Yes
+2018,Elizabeth,Johnson,1999-01-21,Mathematics,1985,2.8,D,Paid,10887,Yes
+2648,Aaron,Long,2003-01-21,Biology,1987,2.08,A,Paid,8786,Yes
+3397,Raymond,Martinez,1999-12-30,Mathematics,1991,4.6,D,,18883,Yes
+4584,Pamela,Haney,2006-05-13,Physics,2006,3.58,C,Paid,0,Yes
+1741,Jennifer,Reid,,,2003,2.35,F,Unpaid,14681,No
+9752,Sean,Russell,2000-06-02,,2000,3.09,,Paid,7529,No
+2212,Julie,Thomas,,Computer Science,2018,2.01,D,,0,No
+1437,Michael,Hernandez,2002-01-08,Mathematics,1978,4.14,C,Unpaid,12697,No
+3038,Monica,Delacruz,2001-09-26,Mathematics,1998,2.39,A,Unpaid,9628,No
+4088,Emily,,invalid_date,Mathematics,1995,2.64,B,Unpaid,0,Yes
+2961,James,Martin,2005-05-10,Biology,1981,3.76,C,Paid,16845,Yes
+7409,Christopher,Orozco,1998-06-29,Biology,2005,2.53,D,Unpaid,0,No
+2499,Chad,Lozano,2002-03-13,Physics,1973,3.27,D,Unpaid,2642,Yes
+7064,Jose,Thornton,2000-04-10,Biology,1985,3.03,C,Paid,7529,Yes
+2901,Amanda,Moran,2001-09-24,Physics,2018,2.99,D,Unpaid,9249,No
+1596,David,Cummings,2004-12-30,Mathematics,2002,3.4,F,Unpaid,1134,Yes
+1354,Michele,Blair,invalid_date,Computer Science,1996,3.95,B,Unpaid,0,No
+4188,Pamela,Stone,2003-09-23,Mathematics,1972,3.65,F,Paid,14256,No
+4030,Kathleen,Colon,2000-10-11,Physics,1986,3.64,A,Unpaid,0,No
+3029,Carlos,Vazquez,,Physics,1975,2.77,A,Paid,16316,No
+8851,Michelle,Terry,2003-06-12,Biology,1990,2.85,A,,16549,Yes
+4450,Justin,Hughes,2001-06-10,Computer Science,1976,2.15,B,Unpaid,10610,Yes
+2000,Dennis,White,2004-06-22,Chemistry,1982,2.48,B,Unpaid,,Yes
+1373,Alexandra,Mcbride,2001-08-12,Mathematics,1978,3.42,F,Paid,0,No
+9916,Jason,Hess,2005-07-10,Computer Science,1999,3.71,A,Unpaid,0,
+7973,Daniel,Miller,2001-05-11,Computer Science,1971,3.69,D,,0,No
+2662,Stephanie,Thompson,2004-03-31,Chemistry,2021,3.18,B,Paid,0,No
+5258,Amy,Baker,2002-05-08,Physics,1994,2.03,F,Paid,15316,No
+2146,Judith,Mcbride,2003-12-09,Chemistry,2005,2.89,B,Paid,0,No
+4618,Rebecca,Murphy,1999-08-19,Mathematics,1998,3.78,A,Paid,15890,No
+2179,Joshua,Erickson,2003-07-23,Biology,1978,3.56,D,Paid,0,No
+5932,Scott,Casey,,Physics,2005,3.29,F,Paid,0,Yes
+6739,Ashley,Holmes,1999-04-09,Physics,1986,2.76,B,Paid,3553,No
+8144,Devin,Bryant,2000-08-18,Biology,2004,3.68,D,Paid,0,Yes
+3954,David,Kent,1999-05-14,Biology,1989,2.64,D,Paid,14753,Yes
+9251,David,Sherman,2004-07-26,Biology,1988,3.1,B,Paid,16125,Yes
+8653,Richard,Cole,1999-05-15,Biology,1997,2,A,Paid,0,No
+1645,Taylor,,2000-10-22,Computer Science,1999,3.82,A,Unpaid,0,No
+2653,Anita,Chen,1998-09-10,Physics,2002,3.61,A,Paid,17514,Yes
+4266,,Thompson,2004-05-18,Mathematics,2017,2.25,B,Unpaid,2453,Yes
+5262,Crystal,Hunt,1999-09-11,Physics,1973,,C,Paid,8468,No
+6874,Julia,Huang,2003-10-08,Biology,1981,,C,Paid,0,No
+8704,Jeffery,Stewart,2005-01-20,Chemistry,2018,4,D,Paid,0,Yes
+3775,Tracy,Arroyo,invalid_date,Biology,2005,2.23,D,Paid,18822,Yes
+4332,Walter,Lee,1999-08-24,Biology,1994,3.06,D,Unpaid,0,No
+1951,Trevor,Gibbs,2001-09-17,Biology,1983,2.54,B,Unpaid,0,Yes
+3592,Susan,Carr,,Physics,1986,2.28,F,Paid,7981,No
+3653,Scott,Burnett,2003-05-13,Physics,1980,3.88,C,Unpaid,7205,Yes
+6608,Douglas,Boyd,2004-02-07,,1985,2.61,D,Unpaid,17164,No
+9674,Tyler,Mckinney,2001-03-16,Physics,2024,,C,Paid,0,
+5107,Paige,Durham,2000-03-15,Computer Science,1990,3.78,C,Paid,17928,No
+2920,Jason,Taylor,2002-01-26,,2023,2.35,C,,0,Yes
+8246,,Ingram,2002-10-23,Mathematics,1979,2.76,,Unpaid,0,Yes
+3864,Peter,Brown,2002-09-29,Computer Science,1982,3.75,B,Unpaid,0,No
+1216,Victoria,Miller,1999-07-06,Computer Science,2007,,D,Paid,12420,No
+8727,,Holmes,2003-04-01,Physics,1987,3.72,A,Paid,0,
+7715,Tiffany,Smith,1999-05-21,Chemistry,2007,3.51,D,Paid,0,No
+9332,Gloria,Hampton,2004-05-20,Physics,1971,2.47,B,Paid,0,No
+6102,Christopher,Garcia,2006-03-28,Chemistry,1982,,F,Unpaid,7617,Yes
+6851,Stacy,Lawson,2002-07-11,Physics,1985,2,D,Paid,0,Yes
+7367,Sandy,Hudson,1999-07-19,Biology,2019,,F,Unpaid,0,Yes
+5111,Randall,Rogers,2002-10-26,Chemistry,1998,2.68,D,Paid,15946,Yes
+3513,Michael,Gray,2006-02-01,Computer Science,2017,2.98,D,Unpaid,7196,No
+1203,Darren,Cox,2002-04-18,Physics,1980,3.78,D,Paid,10269,Yes
+8503,Adam,Skinner,2002-06-26,Mathematics,1986,2.66,F,Paid,0,Yes
+2295,Joseph,Fields,2000-01-04,Mathematics,2021,2.51,C,Unpaid,6542,No
+6503,Danielle,Taylor,2002-05-11,Computer Science,2008,2.85,D,Paid,1624,Yes
+1748,Kelly,Schaefer,2003-02-23,Mathematics,1978,2.22,A,Unpaid,,Yes
+9918,Rachel,White,2001-05-18,Physics,2009,3.18,D,Unpaid,0,Yes
+5601,Donald,Martinez,1999-08-02,Chemistry,2016,4.65,F,Unpaid,9295,Yes
+3209,Ashley,,2002-01-11,Mathematics,1981,2.63,F,Paid,0,Yes
+4934,James,Lawson,2000-08-26,Chemistry,2020,3.86,D,Paid,11980,No
+8894,Ryan,Williams,2001-09-12,Computer Science,1986,3.43,A,Paid,2503,No
+6770,Jennifer,,1999-02-27,Chemistry,2005,2.53,D,Unpaid,0,No
+5716,Patrick,Hale,2003-04-18,Computer Science,2022,2.58,F,Unpaid,4983,Yes
+6885,Mark,Robles,2002-10-15,Chemistry,1990,2.02,F,Unpaid,14809,Yes
+3168,Deborah,,2001-05-05,Physics,2024,3.52,F,Paid,0,Yes
+6083,Grace,Burke,2005-06-18,Physics,2024,3.61,A,Unpaid,6060,Yes
+7357,Earl,Bauer,2005-06-24,Chemistry,2018,2.25,A,Paid,0,No
+7789,Sarah,Jackson,2005-10-31,Physics,2020,3.23,A,Unpaid,8403,Yes
+2322,Dylan,Hull,2000-06-22,Mathematics,1971,2.1,F,Unpaid,8669,Yes
+1024,Leslie,Mcintosh,2002-05-07,Physics,2019,2.39,,Paid,0,No
+4150,Jason,Russell,2000-08-07,,2001,3.61,D,Paid,8559,No
+6478,Jacob,Alexander,2001-06-22,Computer Science,2023,3.68,D,Paid,8361,Yes
+3622,Michael,Munoz,2002-07-30,Computer Science,1983,2.16,D,Unpaid,0,No
+4922,Tonya,Oliver,2005-01-30,Computer Science,1974,2.8,A,Unpaid,9746,Yes
+4655,Ronald,Scott,2006-06-11,Chemistry,1998,2.47,F,Paid,0,No
+8342,Travis,Collins,2001-12-23,Chemistry,1981,3.81,F,Paid,3005,Yes
+7203,Jessica,Sweeney,1998-09-10,Computer Science,1995,3.48,B,Paid,16380,Yes
+1516,Laura,Chavez,2002-04-16,Biology,2004,2.96,D,Paid,12811,No
+7590,Scott,White,2004-08-22,Physics,1996,,A,Paid,2373,Yes
+7852,James,Chavez,,Mathematics,1984,2.65,C,Paid,0,Yes
+1766,Jennifer,Baker,1998-07-16,Physics,1996,2.98,A,Paid,0,Yes
+3714,Rebecca,Avery,2003-03-10,Biology,2006,2.09,B,Paid,0,No
+8296,Arthur,Brown,2001-12-06,Biology,2005,,D,Paid,0,
+2046,Cynthia,Davis,2004-12-27,Biology,2003,2.56,,Unpaid,0,No
+5247,Monica,Johnson,2005-01-30,,1977,3.95,C,Unpaid,12082,Yes
+3583,Michael,Smith,2002-04-13,Chemistry,1978,3.27,C,Unpaid,12058,No
+8313,Julia,Powell,2000-05-23,Physics,1975,,D,Paid,13112,No
+9643,Erica,Vaughn,2002-02-21,Mathematics,2006,2.43,F,Unpaid,0,Yes
+8983,Jesse,Prince,2000-07-15,Computer Science,1970,3.2,F,Unpaid,0,Yes
+1001,Kenneth,Morris,2000-08-22,Physics,1975,3.84,C,Unpaid,10104,No
+1637,Christopher,Gibbs,2002-07-19,Mathematics,1970,3.07,C,,0,Yes
+9103,Misty,Reese,2002-07-13,Biology,2020,2.5,D,Unpaid,14563,Yes
+6340,Karen,Neal,,Physics,1986,2.86,,Unpaid,0,Yes
+6112,,Alvarez,2000-06-06,Mathematics,2020,3.89,F,Unpaid,2924,No
+8649,Nicole,Hodge,2002-03-28,Physics,1996,3.8,A,Paid,18126,
+1816,Robert,Nichols,2000-11-24,Biology,2000,3.12,A,Unpaid,0,No
+7801,Brian,Morales,2001-07-20,,2015,2.82,F,Unpaid,0,Yes
+4080,Heather,Bowers,2004-01-17,Physics,1988,3.89,F,Unpaid,3050,No
+9987,Elizabeth,Schaefer,2002-08-16,Mathematics,1998,2.14,A,Paid,14145,Yes
+2367,Deborah,Johnson,2003-08-03,Biology,1993,3.48,C,Paid,0,Yes
+3138,Amy,Black,2006-06-01,Chemistry,2015,2.14,A,Unpaid,0,Yes
+1241,Jessica,Copeland,2006-05-24,Mathematics,1996,4,,Paid,14766,
+7583,,Miller,1999-10-03,,1987,3.8,,Unpaid,15351,No
+7840,Shawn,Howard,2005-07-24,Mathematics,2019,3.58,F,Paid,0,Yes
+1055,Jonathan,Garcia,2002-12-06,Chemistry,1975,2.55,A,Paid,0,No
+4498,Thomas,Donaldson,2004-04-23,Mathematics,2021,3.5,C,Paid,0,Yes
+1234,,Moore,1999-03-27,Mathematics,1980,2.02,C,Paid,5452,No
+1038,Bobby,Black,2000-01-31,Physics,2009,2.34,D,Paid,15734,Yes
+9656,Brian,Ballard,2001-01-14,Chemistry,1986,3.35,A,Unpaid,0,No
+2602,Michael,Moyer,2006-06-04,Physics,2020,4.38,A,Unpaid,5163,Yes
+4120,Keith,Smith,2002-11-22,Chemistry,1984,3.23,D,Unpaid,7110,No
+2948,Adrian,Morgan,2003-11-09,Biology,1973,2.11,F,Paid,8403,No
+4252,Bryce,Blackburn,2004-03-19,Mathematics,2021,3.87,B,Paid,0,Yes
+5954,Ronald,Dominguez,1999-07-14,Mathematics,1973,3.91,B,Paid,15292,Yes
+5587,Jeffrey,Martin,1998-12-28,Physics,2004,3.33,C,Paid,2655,No
+3985,,Maxwell,1999-10-22,Physics,1974,3.79,F,Unpaid,4217,Yes
+2641,Angela,Moore,2001-05-28,Biology,2017,2.18,C,Paid,3360,Yes
+8792,Jeffrey,Frazier,1998-10-19,Biology,2000,3.7,B,Unpaid,7869,Yes
+7499,James,Hahn,2001-05-02,Biology,1986,3.96,C,Paid,0,Yes
+2332,Charlene,,2005-11-21,Physics,2000,2.08,F,Unpaid,15977,No
+1357,,Murphy,2003-10-11,Mathematics,2018,2.29,B,Paid,0,
+5500,Christopher,Johnson,invalid_date,Mathematics,2022,2.59,D,Unpaid,5887,Yes
+8421,Luis,Benjamin,1999-11-08,Chemistry,2021,2.63,F,Unpaid,0,No
+2896,Amanda,Garrett,2005-01-01,Physics,2015,4.81,D,Unpaid,8493,Yes
+5202,Patricia,Sanders,2006-02-22,Mathematics,1979,3.5,A,Paid,0,No
+3185,Jonathan,Perez,2002-06-22,Physics,2010,2.09,F,Paid,0,No
+9533,Alejandra,Reid,2001-10-22,Mathematics,2012,3.55,B,Unpaid,0,No
+6686,James,Murphy,2004-04-02,Biology,2004,2.68,D,Unpaid,7752,
+2885,Christopher,Burch,2000-01-31,Physics,1989,3.87,B,Unpaid,0,No
+3530,Molly,Bell,,Physics,1970,2.06,A,,0,Yes
+5561,Michael,Martin,2002-09-16,Chemistry,2010,2.96,C,Paid,0,Yes
+1304,Mary,Fisher,2000-02-14,Biology,1980,3.38,D,Paid,0,No
+1693,John,Cox,1999-11-30,Chemistry,1993,2.17,F,Paid,11836,Yes
+1666,Jessica,Cunningham,2001-10-24,Mathematics,2015,2.62,B,Paid,15338,Yes
+4370,Kevin,Hughes,1998-11-21,Chemistry,1994,2.91,B,Paid,19864,No
+5254,Zachary,Townsend,2005-03-08,Physics,1994,3.22,C,Unpaid,0,
+6156,Paul,Martin,2005-04-23,Computer Science,1990,2.54,A,Paid,7197,Yes
+7011,Timothy,Silva,2005-01-21,Computer Science,2004,4.24,C,Paid,12455,No
+1688,Monica,Mcdaniel,2001-05-16,Mathematics,2013,,B,Paid,11038,
+9101,,Higgins,2006-01-14,Mathematics,2016,2.96,A,Paid,0,No
+8514,Kevin,Jackson,2004-12-13,Physics,1987,3.44,D,Paid,9039,No
+8134,Andrea,Hernandez,invalid_date,Mathematics,1979,2.14,F,,12516,Yes
+7102,Albert,Johnson,,Mathematics,1971,2.51,F,Unpaid,15272,No
+9813,Tyler,Morris,2002-12-02,Physics,2002,2.46,,Unpaid,17911,No
+3921,Samuel,Smith,2000-01-31,Computer Science,2019,3.23,B,Paid,7127,No
+4405,,Williams,2004-08-24,Biology,1983,3.64,F,Unpaid,6665,No
+7153,Robert,Frost,2001-04-12,Chemistry,2011,3.43,A,Unpaid,10440,No
+5768,Tristan,Berry,2000-01-18,Computer Science,1997,2.57,B,Paid,0,Yes
+1145,Scott,Hernandez,2002-11-27,Computer Science,1993,3.88,,Paid,15149,Yes
+3268,Christopher,Hernandez,2006-05-04,Computer Science,2002,2.71,B,Paid,14838,Yes
+3474,John,Buchanan,,Computer Science,1990,4.95,C,Paid,,Yes
+5446,Margaret,French,2004-07-19,Chemistry,1999,2.75,C,Paid,7705,Yes
+6462,Eric,Barnes,2005-09-23,,1979,,A,Paid,0,Yes
+6529,Nicole,Bradley,2003-07-19,Biology,2002,2.97,A,Unpaid,18280,
+7016,Jason,Parks,2003-06-12,Mathematics,1990,3.48,F,Unpaid,7773,Yes
+2535,Cheyenne,Dawson,2002-03-07,Mathematics,2017,3.31,A,Unpaid,0,Yes
+6541,Lisa,Nielsen,1999-10-13,Mathematics,1992,2.32,B,Paid,7788,No
+1584,Angelica,Cox,2003-11-17,Biology,1993,2.02,F,,0,Yes
+1675,Olivia,Robinson,2004-05-06,Biology,2013,2.69,F,Unpaid,17111,Yes
+5417,Preston,,2003-09-29,Physics,2011,2.54,B,Paid,0,No
+3684,Susan,Anderson,2002-09-08,Mathematics,1995,4.64,A,Paid,0,No
+3448,John,Knight,2006-02-18,Chemistry,1996,3.82,F,Paid,11192,Yes
+5743,Jeffrey,Bell,2004-02-17,Physics,2009,2.28,A,Paid,,No
+6913,Mary,Davis,2003-05-06,Biology,1997,3.51,F,Paid,0,Yes
+7468,Joshua,Huang,2006-05-22,Mathematics,2017,2.78,F,Unpaid,5869,No
+9986,Michael,Sanchez,2000-04-20,Computer Science,2004,2.15,C,Paid,,Yes
+3124,Virginia,James,2003-07-30,Physics,1990,3.31,D,Unpaid,4944,No
+5807,Daniel,Hendricks,2002-03-30,Computer Science,2015,2.54,C,,0,No
+2882,Rachel,Allen,1998-10-08,Computer Science,2021,3.44,B,Unpaid,13632,No
+8832,Chelsea,Olson,2000-07-21,Computer Science,2008,3.98,B,Paid,16878,No
+4927,Kristina,Knapp,2002-08-21,Computer Science,1986,2.51,D,Paid,10240,No
+1790,Jennifer,Jones,2006-03-09,Physics,1982,,D,Paid,6545,No
+6044,Kimberly,King,,Chemistry,1999,3.87,B,Paid,0,
+3942,Willie,Hill,2005-08-30,Mathematics,1984,3.17,D,Unpaid,0,No
+9569,,Rose,2001-03-11,Chemistry,1988,3.1,A,Unpaid,,No
+2161,Cynthia,Daniels,2003-03-20,Physics,2005,3.11,F,Paid,0,Yes
+5958,Joseph,Munoz,2004-09-15,Chemistry,1981,3.36,,Paid,16140,Yes
+7605,Allen,Chan,2000-02-28,Biology,2004,3.43,F,Paid,0,Yes
+6382,Christina,Mcdowell,1998-06-29,Mathematics,1979,2.44,D,Paid,18645,No
+5902,Jennifer,Hill,1998-11-10,,2010,2.78,A,Paid,15535,Yes
+7794,Gerald,Carr,1999-01-07,Mathematics,2005,2.91,F,Unpaid,3939,Yes
+2780,Robert,Dillon,1999-08-18,Chemistry,2021,3.19,B,Unpaid,13611,No
+2628,Jeffery,Myers,2000-07-21,Mathematics,2006,2.73,C,Paid,18732,No
+8883,Nichole,Garrett,2002-04-05,Mathematics,2022,3.61,A,Unpaid,0,No
+8766,Wendy,Ferguson,2005-12-03,Computer Science,2004,2.85,D,Paid,1499,Yes
+6522,Adam,Phelps,2004-03-22,Physics,2014,4.94,C,Paid,1573,Yes
+6630,Amanda,Thomas,2003-09-05,Mathematics,2002,2.2,F,Paid,12981,Yes
+3036,Ronnie,Long,2000-05-23,Computer Science,1993,,B,Paid,2818,No
+8849,Brandon,Saunders,2004-02-10,Biology,1987,,A,,8517,No
+2900,Paul,Simon,2004-04-23,Mathematics,1999,2.74,F,Paid,0,Yes
+9154,Joseph,Bray,1999-06-01,Physics,1990,2.18,F,Unpaid,15336,No
+7988,Teresa,Hamilton,2005-10-26,Computer Science,2001,2,C,Unpaid,14163,Yes
+1619,Annette,Garcia,2004-12-05,Computer Science,2014,2.76,A,Paid,0,No
+5946,Jerome,Murray,2002-11-16,Chemistry,2005,3.51,C,Unpaid,10801,
+6489,Jennifer,Murray,2002-02-09,Physics,1973,3.12,C,Unpaid,0,No
+3550,Amy,Jackson,2006-05-09,Mathematics,2023,2.75,C,Unpaid,,
+3728,Julian,Wells,2003-12-25,Mathematics,2019,2.37,B,Paid,0,Yes
+2424,Jodi,Moore,2003-11-18,Computer Science,1983,,A,Unpaid,0,Yes
+2078,Rachel,Sellers,2000-12-03,Computer Science,1987,4.24,D,Paid,10263,No
+2387,Calvin,Hancock,2006-01-07,Chemistry,2001,2.81,D,Paid,2177,Yes
+4244,,Gill,2004-04-19,Mathematics,2017,2.37,A,,19074,Yes
+4621,Mark,,2001-05-13,Computer Science,1974,3.51,A,Unpaid,4450,Yes
+2001,Nathaniel,Richardson,2002-09-08,Biology,1971,3.1,C,,0,Yes
+7304,Timothy,Thomas,2004-04-26,Physics,1983,3.79,B,Paid,0,No
+1128,Brandi,Howard,,Computer Science,2010,2.65,D,Paid,0,No
+2606,Derrick,Kennedy,1999-11-17,Computer Science,1977,2.5,A,Paid,8480,No
+7452,Alexis,Stone,2001-08-28,Mathematics,1987,2.5,D,Unpaid,0,Yes
+9503,William,Brown,2003-03-25,Biology,2024,3.72,C,Unpaid,0,Yes
+5748,Michael,Wiley,2005-08-29,Mathematics,1970,2.42,A,,0,Yes
+8348,Cynthia,Scott,2001-07-09,,1984,2.51,F,Paid,13608,No
+9005,Lisa,Cummings,2004-08-04,Mathematics,1982,3.67,B,Paid,0,Yes
+4559,Natalie,Nguyen,2002-03-20,Biology,2012,,A,Unpaid,10996,Yes
+7931,Eric,James,2001-10-24,Mathematics,1981,2.44,C,Paid,12489,Yes
+2370,Gregory,Williams,2002-03-22,Biology,2015,3.92,F,Unpaid,0,No
+7034,Vickie,Arnold,2004-02-17,Physics,1994,2.53,C,Paid,0,No
+4606,Derek,Johnson,,Chemistry,2011,2.68,F,Paid,17396,Yes
+5274,Jamie,Jenkins,invalid_date,Physics,1988,2.31,F,,0,Yes
+3729,Rose,Brooks,2002-06-22,Biology,1970,3.25,A,Paid,10283,No
+8065,Tyler,,1999-01-23,Biology,2015,2.71,B,Paid,,No
+4144,Katrina,Anderson,1999-09-26,Chemistry,2014,2.55,F,Unpaid,6380,No
+6873,Tanya,Rodriguez,2000-05-10,Physics,1971,2.76,A,Unpaid,1011,Yes
+2884,Joe,Kelly,2004-11-26,Biology,1971,3.85,A,Paid,3779,Yes
+1452,David,Johnson,1999-06-15,Biology,2011,2.11,D,Paid,5417,
+9614,Jesus,,,Computer Science,1981,3.07,C,Unpaid,13165,Yes
+8399,Patrick,Ford,1999-10-24,Computer Science,1991,2.28,F,Unpaid,0,Yes
+4304,Charlotte,May,2006-06-15,Chemistry,1986,2.34,F,Paid,0,No
+9144,David,Mann,2001-11-03,Biology,1996,4.89,D,Paid,8812,
+7520,Vernon,Miller,2002-06-08,Mathematics,2004,,F,Paid,,Yes
+4395,,Coleman,2004-07-04,Physics,2020,3.13,F,Unpaid,0,Yes
+1689,Christina,Barber,2003-02-01,Physics,1994,2.94,,Unpaid,0,No
+4537,Anthony,Taylor,invalid_date,Mathematics,1994,3.06,F,Unpaid,0,Yes
+2714,Caitlin,Hernandez,2006-01-28,Biology,1975,3.4,D,Unpaid,0,Yes
+4243,,Martin,2001-08-13,Physics,2009,3.35,B,Paid,0,No
+8510,Kyle,Johnson,2004-06-23,Physics,1999,2.18,B,,,No
+7193,Susan,Taylor,,Physics,2023,3.68,F,Unpaid,1177,No
+6925,Angela,Snyder,1998-09-02,Computer Science,1977,2.15,A,Paid,9334,No
+9952,Frank,Yoder,2001-12-10,Chemistry,2017,2.87,C,Unpaid,0,Yes
+3479,Natasha,Hanson,2000-04-02,Physics,1971,3.29,D,Unpaid,2551,Yes
+2716,Lisa,Roberts,1999-03-27,Chemistry,2022,3.95,C,Paid,0,Yes
+8993,Jo,Mcguire,2005-10-01,Biology,1981,2.68,B,Paid,16018,No
+3431,Amy,,2001-12-30,Computer Science,1970,3.59,D,Unpaid,3600,No
+7650,Janet,Lang,2003-06-21,Mathematics,2010,3.01,D,Unpaid,4401,No
+7934,Christian,Sloan,2003-05-02,Physics,2006,3.32,A,Unpaid,4880,No
+9539,Derrick,Massey,2005-12-03,Biology,1988,2.87,A,Unpaid,6236,No
+9116,Richard,Ayala,2005-03-19,Mathematics,1994,2.6,B,Unpaid,,
+6283,James,Green,2001-12-27,Physics,2020,2.64,F,Paid,0,Yes
+9166,Leslie,Moore,2003-02-02,Computer Science,1984,2.35,F,Unpaid,9574,Yes
+9169,Kelly,Burton,2000-04-11,Biology,1996,3.94,,Paid,15723,Yes
+4309,Sherry,Schmitt,2003-11-16,Mathematics,1983,3.35,A,Unpaid,15389,No
+9893,Jason,,1998-07-10,Biology,1991,3.58,C,Unpaid,18430,Yes
+1159,,Thomas,2004-03-05,Biology,1982,2.12,C,Unpaid,0,No
+6574,Julie,Bennett,1999-08-25,Biology,2024,2.5,D,Paid,0,No
+6214,John,Singh,2003-01-02,Biology,1982,2.6,F,Paid,11389,No
+6272,Michelle,Peters,2003-12-16,Biology,2003,2.15,F,Paid,15411,No
+1581,Elizabeth,Young,,Biology,2014,3.22,,Unpaid,3993,Yes
+9603,Donna,Melendez,2002-08-27,Physics,1980,3.49,F,Paid,17358,No
+3430,Jeremy,Gray,,Biology,2011,3.57,C,Paid,0,Yes
+5208,Max,Myers,2001-09-21,Physics,2010,3.3,B,Paid,14138,No
+3554,Francisco,Ruiz,2003-02-11,,2004,3.64,B,Unpaid,0,Yes
+7209,Andre,Torres,2003-01-22,Physics,1997,3.03,F,Paid,0,No
+5823,Ashley,Ortiz,1999-01-19,,2009,2.88,C,Unpaid,0,No
+8707,Brian,Sullivan,1999-02-26,Biology,2012,2.23,F,,8954,No
+2087,Crystal,Davis,2003-08-20,Chemistry,1985,2.65,F,Unpaid,17396,Yes
+2386,Michael,Mcpherson,2004-09-13,Mathematics,1970,3.18,,Unpaid,5122,No
+9462,Travis,Hernandez,2002-09-05,Chemistry,1973,3.39,A,Paid,8681,No
+4687,Bryan,Silva,2004-11-20,,1999,3.48,F,Unpaid,5830,Yes
+1665,John,Walters,1998-08-14,Biology,2011,3.12,B,Unpaid,1778,No
+5922,Alexander,,2000-03-22,Physics,1972,3.53,B,Paid,7566,No
+1250,Sonia,Keith,2002-01-20,Biology,2013,2.09,B,Paid,,No
+8349,Mark,Rodriguez,,Physics,2014,3.18,C,Paid,0,No
+6416,Lori,Maxwell,,Mathematics,2014,2.46,A,Paid,6513,Yes
+3632,Michael,Wolfe,2001-07-20,,1979,3.19,B,Unpaid,0,Yes
+3438,Elizabeth,Larson,2001-02-21,Biology,2004,2.33,F,Paid,0,Yes
+8548,Derek,Morrison,1999-03-15,Mathematics,1975,3.34,A,Paid,2684,Yes
+7083,Sandra,Palmer,2004-10-28,Mathematics,1998,2.5,B,,0,No
+9273,Shane,Adams,1998-09-08,Biology,1991,3.48,,Paid,0,Yes
+7262,Douglas,Dennis,invalid_date,Mathematics,1992,3.28,C,Paid,2473,No
+9680,Larry,Jackson,2005-05-13,Biology,2013,3.17,F,Paid,17006,No
+9231,Debra,Miller,2000-07-09,Computer Science,2012,3.35,B,Unpaid,3823,No
+1550,Jessica,Johnson,2003-09-17,Computer Science,2012,3.97,F,Paid,0,Yes
+2485,Kristen,Wilson,2005-11-07,Biology,1982,2.09,D,Paid,15102,Yes
+9486,Ricky,Cox,1998-09-22,Chemistry,2018,3.91,,Unpaid,19134,Yes
+2251,Alec,Sharp,2003-06-28,Chemistry,1974,3.28,,Unpaid,19097,Yes
+7985,Patricia,Flores,2005-11-01,Mathematics,1993,2.46,B,Unpaid,0,Yes
+4376,Amanda,Lowe,2002-11-06,Mathematics,1979,3.97,D,Unpaid,1123,No
+5745,,Wood,2001-08-12,Mathematics,1991,2.31,D,Unpaid,0,Yes
+9772,Tina,Horton,1999-10-17,Computer Science,2014,3.49,A,Unpaid,7477,Yes
+7845,Janet,Estrada,2002-06-14,Physics,2020,3.32,,,0,Yes
+8900,,Burnett,2000-09-07,Physics,1988,2.27,A,Unpaid,0,Yes
+7366,Annette,Perez,1999-06-05,Mathematics,2003,3.81,D,Paid,1509,No
+4826,David,,2003-07-15,Biology,2002,2.24,F,Unpaid,18279,Yes
+1335,Stephanie,Arnold,2002-04-17,Physics,2011,,F,Paid,0,No
+1003,George,Kline,2000-11-09,Physics,1992,2.09,B,Paid,0,No
+3981,Vincent,Deleon,2005-12-15,,1988,2.12,A,Unpaid,2774,No
+5955,Christy,Romero,2005-08-14,Biology,2013,3.04,B,Paid,9250,No
+9304,Ebony,Blackwell,2000-05-10,,1975,2.08,C,Paid,0,Yes
+5169,Mary,Johnson,,Physics,2001,2.4,D,Unpaid,0,No
+6450,Holly,Day,2001-10-03,,2021,2.08,A,Unpaid,0,No
+2075,Christopher,Jackson,2004-10-31,Computer Science,1980,2.54,C,Paid,0,
+9085,John,Chaney,2002-10-19,Physics,1977,3.14,B,Paid,9046,Yes
+5292,Maria,Ortiz,2006-05-18,Biology,2004,3.35,A,Paid,0,Yes
+5961,Gregory,Guerrero,2001-05-18,Biology,1987,2.22,C,Paid,17771,Yes
+7685,Sonya,,2000-06-06,Mathematics,2008,3.68,,Unpaid,0,Yes
+7294,Sue,Sutton,2005-07-01,Mathematics,2018,2.71,B,Paid,0,Yes
+7286,Paula,Baker,2003-07-05,Chemistry,1997,2.08,F,Unpaid,,No
+3683,Julia,Matthews,2000-09-24,Computer Science,2011,2.31,C,Paid,0,Yes
+3086,Mary,Gillespie,2006-06-12,Computer Science,2000,2.87,A,Paid,5694,No
+4914,,Jackson,1999-03-31,Biology,1998,2.38,B,Paid,0,
+5703,Jennifer,Alexander,1998-11-11,Chemistry,2015,3.15,D,Paid,4441,No
+6472,Ronald,Brown,1999-10-21,Computer Science,1980,2.84,D,Unpaid,0,Yes
+1909,Michelle,Brooks,2001-03-04,,2011,3.07,F,Paid,14470,Yes
+1588,Dale,Lang,2003-10-27,Physics,1998,2.57,C,Unpaid,16424,Yes
+8886,Courtney,Schneider,2003-06-16,Physics,2022,3.25,D,Unpaid,0,Yes
+7846,Jennifer,Sullivan,2003-04-13,Chemistry,1978,2.21,A,Unpaid,0,No
+3308,Christina,Hall,2002-08-12,Computer Science,2016,2.44,A,Paid,0,No
+9058,Billy,Marks,1999-01-10,Physics,2014,3.09,A,Unpaid,10759,No
+2337,Matthew,Williams,2002-12-22,Physics,2022,3.7,C,Unpaid,0,No
+3480,Joann,Harvey,2002-07-26,Physics,2023,3.09,C,Unpaid,0,Yes
+6779,Nicholas,Adams,2002-03-09,Physics,1977,2.39,F,Paid,18980,No
+7736,Connie,Romero,2001-03-16,Mathematics,2009,2.29,A,Unpaid,2273,No
+1576,Pamela,Pierce,2001-10-07,Chemistry,2022,2.78,,Paid,17506,Yes
+8639,Tyler,Long,2004-09-09,Biology,1977,2.66,A,Paid,0,Yes
+7335,Michael,Baker,2005-11-27,Chemistry,1982,3.26,D,Paid,0,No
+8518,Emily,Hall,1998-09-11,Chemistry,2020,2.73,F,Paid,0,No
+1770,Stephen,Diaz,1999-06-25,Physics,2002,2.1,,Unpaid,16651,Yes
+8715,William,Turner,2002-03-08,Computer Science,1990,2.62,D,Unpaid,0,Yes
+1331,Francis,,2003-08-27,Computer Science,2016,3.23,D,Unpaid,,Yes
+1531,Karen,Rangel,2004-02-21,Physics,2019,3.33,B,Unpaid,0,Yes
+3174,Matthew,Bryant,2006-06-13,Computer Science,1976,2.24,F,Unpaid,8310,Yes
+6306,Linda,Rivers,1999-08-17,Biology,2016,2.7,B,Unpaid,0,Yes
+2725,Sheryl,Mendoza,2004-12-19,Biology,2022,4.76,F,Unpaid,17499,No
+9997,Alexis,,1999-09-11,Computer Science,1998,3.99,C,Paid,0,Yes
+6679,Alyssa,,2006-01-07,Chemistry,1987,3.69,C,Unpaid,14965,No
+4194,Keith,Davis,1998-10-02,Computer Science,1988,2.56,A,Unpaid,18834,Yes
+7281,,Olson,1999-07-02,Mathematics,2023,2.4,F,Unpaid,0,Yes
+9033,Austin,Olsen,2004-06-27,Chemistry,1977,3.4,F,Unpaid,0,No
+2818,Amanda,Phillips,2002-02-22,Biology,2013,2.82,B,,9652,No
+1985,Andrea,Ward,2000-08-06,Physics,1994,2.63,D,Unpaid,18355,No
+8654,Sarah,Davis,1998-10-04,Physics,2004,2.18,D,Unpaid,14939,Yes
+6535,Benjamin,Barrett,2003-11-04,Biology,2006,,F,Unpaid,16530,Yes
+5855,Randall,Brown,2000-10-20,Computer Science,1975,2.86,F,Unpaid,18673,Yes
+3082,David,Wade,2000-09-25,Biology,1970,2.05,C,Unpaid,0,No
+7351,Michael,Willis,2001-10-03,Physics,1972,3.8,B,Paid,14591,No
+5813,Brett,Gonzalez,1999-06-21,Biology,2011,3.75,A,Unpaid,17256,Yes
+2991,Joshua,Johnson,2001-05-31,,1971,3.56,B,Unpaid,0,No
+4098,Wendy,Sullivan,2000-12-20,Biology,2022,3.39,A,Paid,0,No
+1625,Jonathan,Lyons,2001-09-01,Computer Science,1979,3.55,C,Paid,0,Yes
+7422,Erin,Guzman,2003-09-24,Biology,1978,2.19,C,Unpaid,1678,Yes
+8283,,Klein,2005-04-27,Physics,1997,3.46,C,Unpaid,0,Yes
+7087,Sarah,Rodriguez,2003-11-28,Chemistry,1996,3.17,B,Paid,13834,No
+8462,Wanda,Kennedy,2000-02-06,Chemistry,2023,2.22,B,Paid,18156,Yes
+6841,Kathleen,Reed,2004-10-28,Computer Science,2002,2.86,C,,0,Yes
+2234,Kathryn,Deleon,2005-07-02,Physics,1971,3.84,B,Paid,10025,No
+1731,Zachary,,2003-02-05,Mathematics,1991,2.02,A,Paid,,Yes
+1655,Paul,Jennings,2003-02-05,Chemistry,2013,2.32,,Paid,19543,No
+8965,Mary,Allen,1998-12-30,Physics,1979,2.22,C,Unpaid,0,Yes
+5184,John,Jimenez,2001-05-15,Mathematics,1975,3,D,Paid,0,Yes
+1436,Darren,Joyce,2002-11-15,Biology,2017,3.57,A,Paid,7990,No
+9520,Tina,Hill,2003-03-09,Chemistry,1996,3.08,A,Paid,0,Yes
+4538,Linda,Smith,1998-08-10,Mathematics,2013,,A,Paid,,Yes
+4762,Sherry,,1999-11-11,Biology,2009,2.86,A,Paid,0,No
+2531,John,Friedman,2006-03-19,Chemistry,2021,2.53,F,Paid,8716,Yes
+9580,Emily,House,2002-09-14,Computer Science,1985,3.5,A,Unpaid,5813,No
+7883,Amanda,Davis,2005-06-17,Computer Science,1973,2.01,F,Paid,0,Yes
+9308,Nancy,Torres,,Biology,1984,2.9,C,Paid,2551,No
+6002,Francisco,Henderson,2003-11-28,Biology,1998,2.7,C,Unpaid,0,No
+2858,Miranda,Stevenson,2005-10-30,Computer Science,1971,2.7,C,Paid,4532,No
+3386,Eric,Stuart,2000-09-06,Biology,1973,3.37,D,Unpaid,2986,No
+7979,Meghan,Valencia,2001-04-23,Physics,2010,2.34,D,Unpaid,3293,Yes
+7914,Lori,Thomas,1999-08-29,Mathematics,2023,3.64,D,Unpaid,0,No
+2376,Brenda,Roberts,2001-05-31,Chemistry,1997,2.97,B,Paid,16331,Yes
+7809,Brett,Gonzalez,1999-05-02,Computer Science,1979,3.77,D,Paid,0,No
+2030,Eric,Parsons,2003-09-15,Chemistry,2008,3.68,B,Unpaid,0,Yes
+2625,Melvin,Keller,2003-04-06,Computer Science,2019,3.49,B,Unpaid,0,No
+7802,Kelly,Harrington,2002-01-15,Mathematics,2017,2.86,F,Unpaid,0,Yes
+3558,Kelly,Campbell,2005-03-19,Chemistry,1990,2.65,F,Unpaid,12487,Yes
+1503,Troy,Salazar,2004-12-07,Physics,1997,3.79,C,Paid,18415,Yes
+8319,Richard,Guerra,1999-01-24,Biology,1997,3.45,B,Paid,,Yes
+3029,Carlos,Vazquez,,Physics,1975,2.77,A,Paid,16316,No
+1001,Kenneth,Morris,2000-08-22,Physics,1975,3.84,C,Unpaid,10104,No
+1354,Michele,Blair,invalid_date,Computer Science,1996,3.95,B,Unpaid,0,No
+6083,Grace,Burke,2005-06-18,Physics,2024,3.61,A,Unpaid,6060,Yes
+4405,,Williams,2004-08-24,Biology,1983,3.64,F,Unpaid,6665,No
+1731,Zachary,,2003-02-05,Mathematics,1991,2.02,A,Paid,,Yes
+9680,Larry,Jackson,2005-05-13,Biology,2013,3.17,F,Paid,17006,No
+7590,Scott,White,2004-08-22,Physics,1996,,A,Paid,2373,Yes
+4188,Pamela,Stone,2003-09-23,Mathematics,1972,3.65,F,Paid,14256,No
+4130,David,Marshall,2002-06-01,Chemistry,1975,3.77,A,Unpaid,,Yes
+9332,Gloria,Hampton,2004-05-20,Physics,1971,2.47,B,Paid,0,No
+9166,Leslie,Moore,2003-02-02,Computer Science,1984,2.35,F,Unpaid,9574,Yes
+8382,,Gomez,1999-06-24,Computer Science,2007,,D,Unpaid,0,No
+7351,Michael,Willis,2001-10-03,Physics,1972,3.8,B,Paid,14591,No
+1203,Darren,Cox,2002-04-18,Physics,1980,3.78,D,Paid,10269,Yes
+9539,Derrick,Massey,2005-12-03,Biology,1988,2.87,A,Unpaid,6236,No
+2318,Michelle,,2001-11-19,Biology,1972,3.41,C,Paid,0,Yes
+4826,David,,2003-07-15,Biology,2002,2.24,F,Unpaid,18279,Yes
+9116,Richard,Ayala,2005-03-19,Mathematics,1994,2.6,B,Unpaid,,
+6002,Francisco,Henderson,2003-11-28,Biology,1998,2.7,C,Unpaid,0,No
+1265,Christopher,Ward,invalid_date,Computer Science,1987,3.32,B,Unpaid,10283,Yes
+7985,Patricia,Flores,2005-11-01,Mathematics,1993,2.46,B,Unpaid,0,Yes
+7981,Joseph,Best,2002-01-07,Computer Science,2009,3.07,C,Paid,0,Yes
+9965,Cynthia,Fisher,2001-11-03,Physics,1993,2.89,F,Unpaid,0,Yes
+9085,John,Chaney,2002-10-19,Physics,1977,3.14,B,Paid,9046,Yes
